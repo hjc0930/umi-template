@@ -1,0 +1,15 @@
+/node_modules
+/config
+/public
+/dist
+**/*.md
+**/*.svg
+**/*.ejs
+**/*.html
+package.json
+.umi
+.umi-production
+.umi-test
+/.eslintrc.js
+/src/assets
+/commitlint.config.js
